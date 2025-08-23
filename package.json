@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "inquirer": "^8.2.6",
+    "puppeteer": "^24.17.0",
+    "webdriverio": "^9.19.1"
+  },
+  "name": "autoclick",
+  "version": "1.0.0",
+  "description": "",
+  "main": "autoclick.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
